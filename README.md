@@ -2,7 +2,7 @@
 
 
 #### Hi, I am *赵梦阳* (Mengyang Zhao).   [Google Scholar](https://scholar.google.cz/citations?hl=zh-CN&user=SdWMyyEAAAAJ/)
-I am Zhao Mengyang, 23 years old, a graduate student in the [ACADEMY for Eng.& Tech. at Fudan University](http://faet.fudan.edu.cn/). My major is Computer Engineering and I am looking for a PhD position. 
+I am Zhao Mengyang, 23 years old, a graduate student in the [ACADEMY for Eng.& Tech. at Fudan University](http://faet.fudan.edu.cn/). My major is Computer Engineering and I am looking for a PhD position or a Research Assistant position. 
 
 🔭 **Reseach-wise, I mainly focus on**:
 
