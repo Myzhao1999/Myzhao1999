@@ -16,7 +16,7 @@ I am Zhao Mengyang, 23 years old, a graduate student in the [ACADEMY for Eng.& T
 
 
 🌱 **Publications**:
-- LGN-Net: Local-Global Normality Network for Video Anomaly Detection.  `Submitted to IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)` [paper](https://arxiv.org/abs/)
+- LGN-Net: Local-Global Normality Network for Video Anomaly Detection.  `Submitted in IEEE Transactions on Circuits and Systems for Video Technology (TCSVT)` [paper](https://arxiv.org/abs/2211.07454)
 - Exploiting Spatial-temporal Correlations for Video Anomaly Detection. `Accepted by ICPR 2022` [paper](https://arxiv.org/abs/2211.00829)
 
 📫 **Contact me by**:
