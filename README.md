@@ -11,8 +11,7 @@ I am Zhao Mengyang, 23 years old, a graduate student in the [ACADEMY for Eng.& T
 
 😄 **I am open to**:
 
-- A PhD position
-- A Research Assistant position
+
 
 
 🌱 **Publications**:
